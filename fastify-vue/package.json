@@ -1,20 +1,20 @@
 {
-	"type": "module",
-	"scripts": {
-		"dev": "node server.js --dev",
-		"build": "vite build",
-		"start": "node server.js"
-	},
-	"dependencies": {
-		"@fastify/vite": "^8.0.2",
-		"@fastify/vue": "^1.0.1",
-		"fastify": "^5.2.2",
-		"unihead": "^0.8.0",
-		"vue": "^3.5.13",
-		"vue-router": "^4.5.0"
-	},
-	"devDependencies": {
-		"@vitejs/plugin-vue": "^5.2.3",
-		"vite": "^6.2.5"
-	}
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js --dev",
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fastify/vite": "^8.0.2",
+    "@fastify/vue": "^1.0.1",
+    "fastify": "^5.2.2",
+    "unihead": "^0.8.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.5"
+  }
 }
